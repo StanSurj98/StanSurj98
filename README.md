@@ -1,6 +1,6 @@
 # Hey there! My name is Stanley 👋🏼
 ## 🇨🇦 Full-stack Developer 
-- 🏠 based in Calgary Alberta
+- 🏠 based in Calgary, Alberta
 - ✉️ Please contact me at stan.surjanto@gmail.com
 
 ## Skills
