@@ -3,6 +3,9 @@
 <div align="center">
     <p>🇨🇦 Canadian based developer with a passion in developing creative and user-friendly web applications.</p>
    <p>💼 I am open to any software engineering or developer roles! Feel free to view my <a href="https://resume.creddle.io/resume/fckk968fx6h">résumé.</a></p>
+    
+    
+<!--   <a href="[insert-link-here]"><img alt="describe-badge" src="link-from-badges-repo" /></a>   -->
 
 <h3 align="center">Connect With Me:</h3>
 
@@ -23,25 +26,30 @@
 <h3 align="center">Languages, Libraries, and Framewords I Enjoy Working With</h3>
 
 <p align="center">
+    <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
     <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://img.shields.io/badge/typescript-%233178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /></a>
     <a href="https://www.javascript.com"><img alt="javascript" src="https://img.shields.io/badge/javascript-%23dbcc1f.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
     <a href="https://www.python.org"><img alt="python" src="https://img.shields.io/badge/python-%23ffe100.svg?&style=for-the-badge&logo=python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML"><img alt="html5" src="https://img.shields.io/badge/html5-%23ff5e00.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="css3" src="https://img.shields.io/badge/css3-%230059ff.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
+    
 <p align="center">
-    <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+    <a href="https://www.postgresql.org"><img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <!--     <a href="https://reactnative.dev"><img alt="react native" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a> -->
     <a href="https://sass-lang.com"><img alt="sass" src="https://img.shields.io/badge/sass-%23f5fbfc.svg?&style=for-the-badge&logo=sass&logoColor=pink" /></a>
-    <a href="https://styled-components.com/"><img alt="styled-components" src="https://img.shields.io/badge/styled%20components-%23424242.svg?&style=for-the-badge&logo=styledcomponents&logoColor=pink" /></a>
+    
 </p>
+    
 <p align="center">
+    <a href="https://www.docker.com/"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
     <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="http://expressjs.com"><img alt="expressjs" src="https://img.shields.io/badge/express.js%20-%23ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" /></a>
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/git%20-%23ff5d17.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
     <a href="https://www.npmjs.com"><img alt="npm" src="https://img.shields.io/badge/npm%20-%23ff0000.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/yarn%20-%23117cad.svg?&style=for-the-badge&logo=yarn&logoColor=white" /></a>
 </p>
+    
 <p align="center">
     <a href="https://storybook.js.org"><img alt="storybook" src="https://img.shields.io/badge/storybook%20-%23ffffff.svg?&style=for-the-badge&logo=storybook&logoColor=%23fc60b3" /></a>
     <a href="https://jestjs.io"><img alt="jest" src="https://img.shields.io/badge/jest%20-%238c6264.svg?&style=for-the-badge&logo=jest&logoColor=white" /></a>
@@ -59,7 +67,7 @@
     <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://img.shields.io/badge/ruby-%23ff0000.svg?&style=for-the-badge&logo=ruby&logoColor=white" /></a>
     <a href="https://rubyonrails.org"><img alt="rails" src="https://img.shields.io/badge/rails%20-%23fafafa.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red" /></a>
     <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%238925fa.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-    <a href="https://www.postgresql.org"><img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+    <a href="https://styled-components.com/"><img alt="styled-components" src="https://img.shields.io/badge/styled%20components-%23424242.svg?&style=for-the-badge&logo=styledcomponents&logoColor=pink" /></a>
 </p>
 
 <p align="center">
