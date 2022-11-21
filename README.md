@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<h3 align="center">Languages, Libraries, and Framewords I Enjoy Working With</h3>
+<h3 align="center">Languages, Libraries, and Frameworks I Enjoy Working With</h3>
 
 <p align="center">
     <a href="https://reactjs.org"><img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
@@ -36,7 +36,10 @@
     
 <p align="center">
     <a href="https://www.postgresql.org"><img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+    <a href="https://www.mysql.com/"><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    
 <!--     <a href="https://reactnative.dev"><img alt="react native" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a> -->
+    <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>  
     <a href="https://sass-lang.com"><img alt="sass" src="https://img.shields.io/badge/sass-%23f5fbfc.svg?&style=for-the-badge&logo=sass&logoColor=pink" /></a>
     
 </p>
@@ -66,6 +69,7 @@
 <p align="center">
     <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://img.shields.io/badge/ruby-%23ff0000.svg?&style=for-the-badge&logo=ruby&logoColor=white" /></a>
     <a href="https://rubyonrails.org"><img alt="rails" src="https://img.shields.io/badge/rails%20-%23fafafa.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red" /></a>
+    <a href="https://www.prisma.io/"><img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></a>
     <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%238925fa.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
     <a href="https://styled-components.com/"><img alt="styled-components" src="https://img.shields.io/badge/styled%20components-%23424242.svg?&style=for-the-badge&logo=styledcomponents&logoColor=pink" /></a>
 </p>
