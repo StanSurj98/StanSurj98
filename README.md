@@ -76,5 +76,8 @@
     <a href="https://mochajs.org"><img alt="mocha" src="https://img.shields.io/badge/mocha%20-%238c7565.svg?&style=for-the-badge&logo=mocha&logoColor=white" /></a>
     <a href="https://www.chaijs.com"><img alt="chai" src="https://img.shields.io/badge/chai%20-%23e3dab3.svg?&style=for-the-badge&logo=chai&logoColor=red" /></a>
     <a href="https://jquery.com"><img alt="jquery" src="https://img.shields.io/badge/jquery%20-%23fafafa.svg?&style=for-the-badge&logo=jquery&logoColor=%23316192" /></a>
+    <a href="https://www.postman.com/"><img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
+    <a href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /></a>
+    <a href="https://webpack.js.org/"><img alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /></a>
     <a href="https://www.json.org/json-en.html"><img alt="json" src="https://img.shields.io/badge/json%20-%23faf8dc.svg?&style=for-the-badge&logo=json&logoColor=black" /></a>
 </p>
