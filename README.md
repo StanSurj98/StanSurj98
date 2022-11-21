@@ -42,7 +42,6 @@
 </p>
     
 <p align="center">
-    <a href="https://www.docker.com/"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
     <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="http://expressjs.com"><img alt="expressjs" src="https://img.shields.io/badge/express.js%20-%23ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" /></a>
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/git%20-%23ff5d17.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -66,6 +65,7 @@
 <p align="center">
     <a href="https://www.ruby-lang.org/en/"><img alt="ruby" src="https://img.shields.io/badge/ruby-%23ff0000.svg?&style=for-the-badge&logo=ruby&logoColor=white" /></a>
     <a href="https://rubyonrails.org"><img alt="rails" src="https://img.shields.io/badge/rails%20-%23fafafa.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red" /></a>
+    <a href="https://www.docker.com/"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
     <a href="https://www.prisma.io/"><img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></a>
     <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%238925fa.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
     <a href="https://styled-components.com/"><img alt="styled-components" src="https://img.shields.io/badge/styled%20components-%23424242.svg?&style=for-the-badge&logo=styledcomponents&logoColor=pink" /></a>
