@@ -39,7 +39,8 @@
     <a href="https://www.mysql.com/"><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     
 <!--     <a href="https://reactnative.dev"><img alt="react native" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a> -->
-    <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>  
+    
+    <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
     <a href="https://sass-lang.com"><img alt="sass" src="https://img.shields.io/badge/sass-%23f5fbfc.svg?&style=for-the-badge&logo=sass&logoColor=pink" /></a>
     
 </p>
