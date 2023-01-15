@@ -42,6 +42,7 @@
 </p>
     
 <p align="center">
+    <a href="https://nextjs.org/"><img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
     <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="http://expressjs.com"><img alt="expressjs" src="https://img.shields.io/badge/express.js%20-%23ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" /></a>
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/git%20-%23ff5d17.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>
